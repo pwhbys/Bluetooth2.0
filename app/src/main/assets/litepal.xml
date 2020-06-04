@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Control"></dbname>>
+    <version value="1"></version>>
+    <list>
+        <mapping class="com.WideMouth.bluetooth20.Util.Settings"></mapping>
+        <mapping class="com.WideMouth.bluetooth20.ItemClass.Project"></mapping>
+        <mapping class="com.WideMouth.bluetooth20.ControlGroup.ControlPanel"></mapping>
+        <mapping class="com.WideMouth.bluetooth20.ControlGroup.ControlSlider"></mapping>
+        <mapping class="com.WideMouth.bluetooth20.ControlGroup.ControlButton"></mapping>
+        <mapping class="com.WideMouth.bluetooth20.ControlGroup.ControlSwitch"></mapping>
+
+    </list>
+    >
+</litepal>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@drawable/icon_svg_office_work"
+        android:title="办公" />
+
+    <item
+        android:id="@drawable/icon_svg_sun"
+        android:title="阳光沙滩" />
+
+    <item
+        android:id="@drawable/icon_svg_coding"
+        android:title="写代码" />
+</menu>

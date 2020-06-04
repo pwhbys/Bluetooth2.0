@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFF08C56</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">@color/orange_100</color>
+    <color name="navigationBarColor">#FFFFFF</color>
+
+
+
+    <color name="gray">#F1F1F1</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellow">#FFFF00</color>
+
+    <color name="black">#333333</color>
+
+    <color name="orange_100">#FFEE7C3D</color>
+    <color name="orange_80">#DDEE7C3D</color>
+    <color name="orange_50">#50EE7C3D</color>
+    <color name="orange_10">#10EE7C3D</color>
+
+</resources>
